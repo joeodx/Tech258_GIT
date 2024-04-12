@@ -68,6 +68,11 @@ Each commit has a unique identifier (hash) and includes information such as the 
 
 # Distributed Version Control
 
+![joe](pic.jpg)
+
+![Alt Text](pic2.png)
+
+
 
 
 
