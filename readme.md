@@ -66,5 +66,25 @@ A "git commit" is a command in the Git version control system that records chang
 When you commit changes in Git, you are essentially saving a snapshot of the current state of your project.
 Each commit has a unique identifier (hash) and includes information such as the author, timestamp, and a message describing the changes made in that commit.
 
+# Distributed Version Control
+
+
+## What is Github?
+
+
+GitHub is a platform that facilitates collaborative software development and version control using Git. 
+It allows developers to host their code repositories, track changes made to code over time,
+and collaborate with others on coding projects. GitHub provides tools for managing project tasks, 
+reviewing code changes, and coordinating work among team members. It's widely used in the software development 
+community for open source and private projects alike.
+
+## What are some other options/competitors?
+
+* GitLab: GitLab is a web-based Git repository manager with additional features such as issue tracking, CI/CD pipelines, and integrated project management.
+* Bitbucket: Bitbucket is a Git-based code hosting and collaboration platform, offering both Git and Mercurial repositories. It provides features for code collaboration, pull requests, and issue tracking.
+* SourceForge: SourceForge is a web-based service that offers version control, project management, and distribution of software. It has been around for longer than GitHub and hosts a wide variety of open-source projects.
+* AWS CodeCommit: AWS CodeCommit is a fully-managed source control service provided by Amazon Web Services (AWS). It allows teams to host secure and scalable Git repositories.
+
+## How do you link a local repo to a remote repo on GitHub?
 
 
