@@ -59,7 +59,7 @@ The git add command adds a change in the working directory to the staging area.
 It tells Git that you want to include updates to a particular file in the next commit.
 However, git add doesn't really affect the repository
 in any significant way—changes are not actually recorded until you run git ```git commit```.
-````
+````![Screenshot 2024-04-12 150007.png](..%2F..%2FScreenshot%202024-04-12%20150007.png)
 git commit -m
 ````
 A "git commit" is a command in the Git version control system that records changes made to the files in a repository. 
@@ -67,6 +67,8 @@ When you commit changes in Git, you are essentially saving a snapshot of the cur
 Each commit has a unique identifier (hash) and includes information such as the author, timestamp, and a message describing the changes made in that commit.
 
 # Distributed Version Control
+
+
 
 
 ## What is Github?
@@ -86,5 +88,62 @@ community for open source and private projects alike.
 * AWS CodeCommit: AWS CodeCommit is a fully-managed source control service provided by Amazon Web Services (AWS). It allows teams to host secure and scalable Git repositories.
 
 ## How do you link a local repo to a remote repo on GitHub?
+* Create a Repository on GitHub: 
+  *  Log in to your GitHub account.
+Click on the "+" icon in the top-right corner of the page and select "New repository".<br>
+  * Follow the prompts to create a new repository, giving it a name and optionally adding a description, choosing visibility (public or private), and selecting other settings.
 
 
+* Open git bash and make sure you are in the right directory. Then type the following code :
+````python 
+git init
+````
+
+````python 
+git add
+````
+
+````python 
+git commit -m "Initial commit"
+````
+
+````python
+git remote add origin <remote-repository-url>
+````
+
+````python
+git remote add origin <remote-repository-url>
+````
+
+After completing these steps, 
+your local repository should be linked to the remote repository on GitHub, 
+and you'll be able to push and pull changes between them.
+Check your github page and see if they are linked.
+
+
+## How do you link a remote repo to a new local repo?
+
+* Create a New Local Repository:
+  * Open a terminal or command prompt.
+Navigate to the directory where you want to create your new local repository.
+Use the git init command to initialize a new Git repository like 
+````python
+git init
+````
+
+Then follow the next steps: 
+
+````python
+git remote add origin <remote-repository-url>
+````
+
+You are now linked!
+
+When you want to make your first commit, make sure to do the following : 
+````python
+git push origin master
+````
+This command pushes the commits from your local master branch to the remote repository named origin.
+
+Once you've completed these steps, your local repository will be linked to the remote repository, 
+and you'll be able to synchronize changes between them by pulling and pushing commits as needed.
