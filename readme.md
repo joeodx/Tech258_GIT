@@ -73,6 +73,15 @@ Each commit has a unique identifier (hash) and includes information such as the 
 ![Alt Text](pic2.png)
 
 
+Centralized Version Control Systems (VCS) like SVN rely on a single central repository, 
+requiring constant network connectivity for version control operations. 
+Developers work directly on the central repository, making collaboration dependent on the
+central server. In contrast, Distributed Version Control Systems (DVCS) such as Git grant each
+developer a local copy of the entire repository, 
+fostering offline work and speeding up operations by eliminating network dependency.
+DVCS allows for more flexible branching and merging, lightweight operations, and inherent 
+backup and redundancy through local repositories, making it more resilient and adaptable for 
+modern software development workflows.
 
 
 
