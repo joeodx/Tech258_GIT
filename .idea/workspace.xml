@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec294a63-4288-4001-9220-544cdd71ace4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ssh.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/ssh_keys_setup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssh_keys_setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/ssh_keys_setup.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <workItem from="1712903746535" duration="9707000" />
       <workItem from="1713124557960" duration="591000" />
       <workItem from="1713260371258" duration="11000" />
-      <workItem from="1713363796890" duration="322000" />
+      <workItem from="1713363796890" duration="1805000" />
     </task>
     <servers />
   </component>
