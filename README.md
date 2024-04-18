@@ -129,8 +129,18 @@ How do they relate to the cloud? :
 
 In summary, while CapEx involves upfront investments in long-term assets, OpEx refers to ongoing operational expenses. Cloud computing enables businesses to shift from CapEx to OpEx models by providing scalable, pay-as-you-go services, allowing for greater flexibility and cost efficiency.
 
-## Is moving the cloud any cheaper?
+## Is moving to the cloud always cheaper?
 
-While cloud is sometimes positioned as more “cost-effective”, this doesn’t necessarily mean you’ll save money. It ultimately depends on what you want to achieve by moving your IT to the cloud. This often includes considerations not only in terms of monetary cost, but in terms of resource, time and user experience.
-There are various reasons for considering the cloud, and all of these should be included in a business case for making the decision to move to the cloud or to stay with an on premise system.  
+Migrating to the cloud is not always cheaper for every organization or every scenario. While cloud computing offers numerous benefits, including cost savings in many cases, there are situations where the cost of migration and ongoing cloud services may outweigh the potential savings. Here are some factors to consider:
 
+* **Current Infrastructure** : If an organization has already heavily invested in on-premises infrastructure with long depreciation cycles remaining, the immediate cost savings from migrating to the cloud may be limited.
+* **Workload Characteristics**: Certain workloads may be more cost-effective to run on-premises, especially those with predictable and steady resource usage. In contrast, highly variable workloads or those with bursty demand may benefit more from the scalability and pay-as-you-go nature of cloud services.
+* **Data Transfer Costs**: Depending on the volume of data and network bandwidth requirements, transferring data to and from the cloud can incur significant costs, especially if there are frequent data transfers between on-premises systems and the cloud.
+* **Licensing and Subscription Costs**: While cloud services often offer subscription-based pricing, the total cost can increase over time as usage grows or additional features are added. Organizations should carefully evaluate licensing models and subscription tiers to ensure they align with their needs and budget.
+* **Storage and Compute Costs** : Cloud providers typically charge for storage and compute resources based on usage. Organizations should assess their resource requirements and optimize resource utilization to avoid unnecessary costs.
+
+## Marketshare - What is the breakdown?
+
+![](https://cdn.statcdn.com/Infographic/images/normal/18819.jpeg)
+
+The cloud computing market is primarily dominated by three major players: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). These three providers collectively hold the majority of the market share, with AWS typically leading by a significant margin, followed by Azure and then GCP. However, the exact breakdown of market share among these providers can vary depending on the source of the analysis and the specific metrics used for measurement.
