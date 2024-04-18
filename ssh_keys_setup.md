@@ -41,3 +41,9 @@ cat github_ssh_example.pub
 
 ![git image](pictures\github_ssh.jpg)
 
+Now we can use our repo : 
+
+![](pictures\github1.jpg)
+
+
+

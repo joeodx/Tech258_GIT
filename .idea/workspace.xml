@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec294a63-4288-4001-9220-544cdd71ace4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pictures/github_ssh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/ssh2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/github1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ssh_keys_setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/ssh_keys_setup.md" afterDir="false" />
     </list>
@@ -74,7 +73,7 @@
       <workItem from="1713363796890" duration="7648000" />
       <workItem from="1713372178819" duration="48000" />
       <workItem from="1713372246905" duration="12000" />
-      <workItem from="1713426714752" duration="1634000" />
+      <workItem from="1713426714752" duration="2567000" />
     </task>
     <servers />
   </component>
