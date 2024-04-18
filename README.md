@@ -85,6 +85,9 @@ In simple terms, **IaaS** is like renting virtual computers, **PaaS** is like re
 
 The cloud has a number of advantages and disadvantages :
 
+
+* **Advantage - Scalabilty and Acessbilty**
+Cloud services allow businesses to scale resources up or down based on demand. This flexibility enables organizations to handle fluctuating workloads without over-provisioning or underutilizing resources, leading to cost savings and improved efficiency.
 * **Advantage – Cost Reduction**
 The cloud provider takes on all of the hassles associated with infrastructure, maintenance and utility management for the servers.
 Cloud-based applications are usually a fraction of the cost of locally installed software.
