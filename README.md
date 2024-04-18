@@ -159,6 +159,7 @@ While AWS has historically maintained a strong lead in market share, Azure has b
 The three largest cloud providers, Amazon Web Services (AWS), each have their unique strengths and offerings, which contribute to their popularity and market dominance. Here are some of their key features and unique selling propositions (USPs):
 
 ### Amazon Web Services (AWS):
+![](https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png)
  
 **USPs**:
 * Comprehensive Service Portfolio: AWS offers a vast array of cloud services covering computing, storage, databases, machine learning, IoT, and more, catering to diverse business needs.
@@ -167,6 +168,7 @@ The three largest cloud providers, Amazon Web Services (AWS), each have their un
 * Market Leader: Being the first major player in the cloud market, AWS has established itself as a trusted and mature platform with a large customer base, including startups, enterprises, and government agencies.
 
 ### Microsoft Azure 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhlJ2dWoxJCJ2kZtca_HAB9S_und2Hrf611GT6UwI4ew&s)
 
 **USPs**:
 * Hybrid Capabilities: Azure provides strong support for hybrid cloud scenarios, allowing seamless integration between on-premises environments and the cloud, a key factor for many enterprises.
@@ -175,7 +177,7 @@ The three largest cloud providers, Amazon Web Services (AWS), each have their un
 * AI and Machine Learning Services: Azure offers a comprehensive suite of AI and machine learning tools and services, enabling organizations to build sophisticated AI-powered applications and solutions.
 
 ### Google Cloud Service
-
+![](https://nordcloud.com/wp-content/uploads/2020/10/GCP-logo.png)
 **USPs**:
 * Data Analytics and Machine Learning: GCP is renowned for its powerful data analytics and machine learning capabilities, with services like BigQuery, TensorFlow, and AI Platform attracting data-driven organizations.
 * Containerization with Kubernetes: GCP is a pioneer in containerization technology, and its managed Kubernetes service (Google Kubernetes Engine - GKE) is highly regarded for its scalability, reliability, and integration with other Google services.
