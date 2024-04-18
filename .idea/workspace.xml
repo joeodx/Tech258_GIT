@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec294a63-4288-4001-9220-544cdd71ace4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pictures/github1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssh_keys_setup.md" beforeDir="false" afterPath="$PROJECT_DIR$/ssh_keys_setup.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud_learning/what_is_cloud/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_learning/what_is_cloud/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cloud_learning" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -73,7 +70,7 @@
       <workItem from="1713363796890" duration="7648000" />
       <workItem from="1713372178819" duration="48000" />
       <workItem from="1713372246905" duration="12000" />
-      <workItem from="1713426714752" duration="2567000" />
+      <workItem from="1713426714752" duration="2871000" />
     </task>
     <servers />
   </component>
