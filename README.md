@@ -184,7 +184,7 @@ The three largest cloud providers, Amazon Web Services (AWS), each have their un
 * Global Network Infrastructure: GCP boasts one of the largest and most advanced global networks, offering high-speed connectivity and low-latency access to its cloud services.
 * Emphasis on Sustainability: Google has made significant commitments to sustainability, including renewable energy investments and carbon-neutral operations, attracting environmentally-conscious customers.
 
-### What sorts of things do you usually need to pay for when using the cloud?
+## What sorts of things do you usually need to pay for when using the cloud?
 
 When using cloud services, there are various factors and resources for which you may need to pay. Here's an overview of some common items you may incur costs for:
 
