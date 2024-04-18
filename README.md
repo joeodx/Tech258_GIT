@@ -144,3 +144,11 @@ Migrating to the cloud is not always cheaper for every organization or every sce
 ![](https://cdn.statcdn.com/Infographic/images/normal/18819.jpeg)
 
 The cloud computing market is primarily dominated by three major players: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). These three providers collectively hold the majority of the market share, with AWS typically leading by a significant margin, followed by Azure and then GCP. However, the exact breakdown of market share among these providers can vary depending on the source of the analysis and the specific metrics used for measurement.
+<br>
+<br>
+While AWS has historically maintained a strong lead in market share, Azure has been rapidly gaining ground, especially in the enterprise segment, leveraging Microsoft's existing customer base and ecosystem. GCP, while trailing behind AWS and Azure in terms of market share, has been investing heavily in infrastructure expansion and service offerings to compete more aggressively.
+
+## What are the 3 largest Cloud providers known for?
+
+The three largest cloud providers, Amazon Web Services (AWS), each have their unique strengths and offerings, which contribute to their popularity and market dominance. Here are some of their key features and unique selling propositions (USPs):
+
