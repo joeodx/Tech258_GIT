@@ -129,3 +129,8 @@ How do they relate to the cloud? :
 
 In summary, while CapEx involves upfront investments in long-term assets, OpEx refers to ongoing operational expenses. Cloud computing enables businesses to shift from CapEx to OpEx models by providing scalable, pay-as-you-go services, allowing for greater flexibility and cost efficiency.
 
+## Is moving the cloud any cheaper?
+
+While cloud is sometimes positioned as more “cost-effective”, this doesn’t necessarily mean you’ll save money. It ultimately depends on what you want to achieve by moving your IT to the cloud. This often includes considerations not only in terms of monetary cost, but in terms of resource, time and user experience.
+There are various reasons for considering the cloud, and all of these should be included in a business case for making the decision to move to the cloud or to stay with an on premise system.  
+
