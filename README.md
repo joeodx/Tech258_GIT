@@ -100,7 +100,9 @@ The most obvious argument is that cloud providers will make a point to keep secu
 Cloud providers survive on redundancy. Your data isn’t just stored on a server. It’s stored across multiple servers.
 Depending on the provider, it might even be stored on servers in multiple locations. Just in case there’s a catastrophic failure at a given server farm.
 This means that no single hardware failure will hamstring your business. It also means that you can expect superb reliability in terms of accessing your data or services. Most providers even guarantee 99.99% uptime.
-<br>
+
+* **Advantage -Automatic Updates and Maintenance**
+ Cloud services are regularly updated and maintained by the provider, ensuring that businesses have access to the latest features, security patches, and performance improvements without the need for manual intervention.<br>
 
 
 * **Disadvantage – Security** 
