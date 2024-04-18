@@ -183,3 +183,13 @@ The three largest cloud providers, Amazon Web Services (AWS), each have their un
 * Containerization with Kubernetes: GCP is a pioneer in containerization technology, and its managed Kubernetes service (Google Kubernetes Engine - GKE) is highly regarded for its scalability, reliability, and integration with other Google services.
 * Global Network Infrastructure: GCP boasts one of the largest and most advanced global networks, offering high-speed connectivity and low-latency access to its cloud services.
 * Emphasis on Sustainability: Google has made significant commitments to sustainability, including renewable energy investments and carbon-neutral operations, attracting environmentally-conscious customers.
+
+### What sorts of things do you usually need to pay for when using the cloud?
+
+When using cloud services, there are various factors and resources for which you may need to pay. Here's an overview of some common items you may incur costs for:
+
+* **Compute Resources**: This includes the cost of virtual machines (VMs), containers, or serverless functions that you deploy to run your applications or workloads. You typically pay based on factors such as the type of instance, CPU and memory configuration, and duration of usage (per hour or per second).
+* **Storage**: Cloud providers offer various types of storage options, such as object storage, block storage, and file storage, each with its own pricing model. You pay for the amount of data stored, data transfer (ingress and egress), and any additional features like data replication, encryption, or access controls.
+* **Network Usage**: Cloud providers may charge for data transfer between different regions, availability zones, or between the cloud and external networks (e.g., the internet). Pricing may vary based on the volume of data transferred and the distance traveled.
+* **Database Services**: If you use managed database services like relational databases (e.g., Amazon RDS, Azure SQL Database) or NoSQL databases (e.g., Amazon DynamoDB, Azure Cosmos DB), you'll incur costs based on factors such as storage capacity, I/O operations, and data transfer.
+* **Content Delivery Network (CDN)**: CDNs accelerate the delivery of web content to users by caching content at edge locations closer to them. You may need to pay for CDN usage based on the volume of data transferred and the number of requests served.
