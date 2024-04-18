@@ -173,3 +173,11 @@ The three largest cloud providers, Amazon Web Services (AWS), each have their un
 * Integration with Microsoft Ecosystem: Azure offers tight integration with popular Microsoft products such as Windows Server, Active Directory, and Office 365, making it attractive to organizations already invested in Microsoft technologies.
 * Enterprise Focus: Azure emphasizes enterprise-grade security, compliance, and support, making it a preferred choice for businesses with stringent regulatory requirements.
 * AI and Machine Learning Services: Azure offers a comprehensive suite of AI and machine learning tools and services, enabling organizations to build sophisticated AI-powered applications and solutions.
+
+### Google Cloud Service
+
+**USPs**:
+* Data Analytics and Machine Learning: GCP is renowned for its powerful data analytics and machine learning capabilities, with services like BigQuery, TensorFlow, and AI Platform attracting data-driven organizations.
+* Containerization with Kubernetes: GCP is a pioneer in containerization technology, and its managed Kubernetes service (Google Kubernetes Engine - GKE) is highly regarded for its scalability, reliability, and integration with other Google services.
+* Global Network Infrastructure: GCP boasts one of the largest and most advanced global networks, offering high-speed connectivity and low-latency access to its cloud services.
+* Emphasis on Sustainability: Google has made significant commitments to sustainability, including renewable energy investments and carbon-neutral operations, attracting environmentally-conscious customers.
