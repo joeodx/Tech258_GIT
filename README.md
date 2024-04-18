@@ -193,3 +193,27 @@ When using cloud services, there are various factors and resources for which you
 * **Network Usage**: Cloud providers may charge for data transfer between different regions, availability zones, or between the cloud and external networks (e.g., the internet). Pricing may vary based on the volume of data transferred and the distance traveled.
 * **Database Services**: If you use managed database services like relational databases (e.g., Amazon RDS, Azure SQL Database) or NoSQL databases (e.g., Amazon DynamoDB, Azure Cosmos DB), you'll incur costs based on factors such as storage capacity, I/O operations, and data transfer.
 * **Content Delivery Network (CDN)**: CDNs accelerate the delivery of web content to users by caching content at edge locations closer to them. You may need to pay for CDN usage based on the volume of data transferred and the number of requests served.
+
+## What are the 4 pillars of DevOps? How do they link into the Cloud?
+![](https://i.postimg.cc/SxHRGSpt/Devops-and-cloud-better-together.jpg)
+
+
+The four pillars of DevOps are Culture, Automation, Measurement, and Sharing. Let's explore how each of these pillars links into the cloud:
+
+* **Culture:**
+Cloud computing encourages and supports DevOps culture by providing shared platforms, tools, and environments for development, testing, deployment, and operations. Cloud services facilitate collaboration and enable teams to work seamlessly across distributed locations. Additionally, the on-demand nature of cloud resources promotes agility and experimentation, fostering a culture of innovation and rapid iteration.
+
+* **Automation:**
+Cloud computing encourages and supports DevOps culture by providing shared platforms, tools, and environments for development, testing, deployment, and operations. Cloud services facilitate collaboration and enable teams to work seamlessly across distributed locations. Additionally, the on-demand nature of cloud resources promotes agility and experimentation, fostering a culture of innovation and rapid iteration.
+
+* **Measurement:**
+Cloud platforms provide extensive monitoring and analytics capabilities that enable teams to measure and analyze various aspects of their applications and infrastructure. Cloud-native monitoring services like AWS CloudWatch, Azure Monitor, and Google Cloud Monitoring collect and visualize metrics, logs, and traces, providing insights into system health, performance, and usage. These metrics help teams optimize their applications, troubleshoot issues, and optimize resource utilization.
+
+* **Sharing**
+Cloud platforms facilitate sharing and collaboration through centralized repositories, version control systems, and collaboration tools. Cloud-based source code repositories like GitHub, GitLab, and Bitbucket enable developers to collaborate on code, review changes, and share knowledge seamlessly. Additionally, cloud communities, forums, and events provide platforms for sharing experiences, insights, and best practices with the broader DevOps community.
+
+In summary, the four pillars of DevOps - Culture, Automation, Measurement, and Sharing - are closely intertwined with cloud computing. Cloud platforms provide the infrastructure, tools, and environments that support and enable DevOps practices, helping organizations achieve agility, efficiency, and innovation in software delivery and operations.
+
+
+
+
