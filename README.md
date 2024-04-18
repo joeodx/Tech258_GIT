@@ -78,6 +78,7 @@ Provides fully functional applications hosted in the cloud that users can access
 Users do not need to install, maintain, or update the software; the provider handles these tasks.
 Examples: Salesforce, Google Workspace (formerly G Suite), Microsoft Office 365, Dropbox.
 
+In simple terms, **IaaS** is like renting virtual computers, **PaaS** is like renting a platform for building apps, and **SaaS** is like using software over the internet without installing it.
 ## What are the advantages and disadvantages of using the cloud? 
 
 ![](https://www.cio.com/wp-content/uploads/2023/11/iStock-1724789360-1.jpg?quality=50&strip=all)
