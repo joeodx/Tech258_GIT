@@ -198,7 +198,7 @@ When using cloud services, there are various factors and resources for which you
 ![](https://i.postimg.cc/SxHRGSpt/Devops-and-cloud-better-together.jpg)
 
 
-The four pillars of DevOps are Culture, Automation, Measurement, and Sharing. Let's explore how each of these pillars links into the cloud:
+The four pillars of DevOps are Culture/Collabration, Automation, Measurement, and Sharing/Improving. Let's explore how each of these pillars links into the cloud:
 
 * **Culture:**
 Cloud computing encourages and supports DevOps culture by providing shared platforms, tools, and environments for development, testing, deployment, and operations. Cloud services facilitate collaboration and enable teams to work seamlessly across distributed locations. Additionally, the on-demand nature of cloud resources promotes agility and experimentation, fostering a culture of innovation and rapid iteration.
